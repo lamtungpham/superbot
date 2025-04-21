@@ -1,6 +1,6 @@
 # 🚀 SuperBot - Trợ lý AI đa nền tảng
 
-**SuperBot** là chatbot AI kết nối đa nền tảng: OpenAI GPT-4, Google Gemini 1.5 Pro và Hugging Face Models.
+**SuperBot** là chatbot AI kết nối đa nền tảng: OpenAI ChatGPT, Google Gemini và Hugging Face Models.
 
 ## 💡 Tính năng nổi bật:
 - Tùy chỉnh phong cách trò chuyện bằng Prompt Base.
